@@ -1,0 +1,7 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.0
+SQLAlchemy==2.0.29
+pydantic==2.7.1
+yfinance==0.2.40
+pandas==2.2.2
+python-multipart==0.0.9
